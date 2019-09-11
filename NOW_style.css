@@ -89,6 +89,14 @@ a {color: #004877;}
 
 a:hover {color: #999;}
 
+/* Highlight images in page */
+
+img {
+    border-color: #E8005A;
+    border-width: 2px;
+    margin: 5px;
+}
+
 div.btn-group {padding: 10px;}
 
 div.btn-group * i.fa-circle {color: #fff; }

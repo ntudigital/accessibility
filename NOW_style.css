@@ -91,7 +91,7 @@ a:hover {color: #999;}
 
 /* Highlight images in page */
 
-.highlight { 5px solid #E8005A;}
+.highlight { border: 5px solid #E8005A;}
 
 /* Button groups for toolbar in Induction template */
 

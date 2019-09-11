@@ -91,11 +91,9 @@ a:hover {color: #999;}
 
 /* Highlight images in page */
 
-img {
-    border-color: #E8005A;
-    border-width: 2px;
-    margin: 5px;
-}
+.highlight { 5px solid #E8005A;}
+
+/* Button groups for toolbar in Induction template */
 
 div.btn-group {padding: 10px;}
 
@@ -114,6 +112,8 @@ div.btn-group * i.fa-check {
 */
 
 .btn-group * a {margin-left: 5px;}
+
+/* Additional features */
 
 .calendar {
     margin: 0.25em 0;

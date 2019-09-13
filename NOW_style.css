@@ -83,6 +83,14 @@ margin: 1em 0px 1em 0px;}
     margin-top: -1em;
 }
 
+figure {
+    width: 100%; 
+    background-color: #dddddd; 
+    padding: 15px;
+    margin-top: -1em;
+    text-align: center;
+}
+
 .btn-light {color: #212529;background-color: #ffffff;border-color: #ffffff;}
 
 a {color: #006EB8;}
